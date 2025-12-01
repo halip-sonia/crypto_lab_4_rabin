@@ -37,4 +37,3 @@ def decrypt(c, p, q, n):
     r4 = n - r3
 
     return [r1, r2, r3, r4]
-
